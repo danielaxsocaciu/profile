@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
+
+body {
+  background-image: url("https://i.gifer.com/IAd1.gif");
+  background-size: cover;
+  /* background-color: #EFEFEF; */
+  font-family: 'Quicksand', sans-serif;
+  color: #143109;
+  font-size: 17px;
+  line-height: lighter;
+}
+
+.fa-instagram {
+  color: #FDFFE1
+}
+
+.fa-linkedin {
+  color: #FDFFE1
+}
+
+.fa-github {
+  color: #FDFFE1
+}
+
+h1 {
+  color: #143109;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+  color: #FFC61A;
+}
+
+a {
+  color:#143109;
+}
+
+.fa-instagram:hover{
+  color: #143109;
+}
+
+.fa-linkedin:hover{
+  color: #143109;
+}
+
+.fa-github:hover {
+  color: #143109;
+}
+
+.container {
+    /* background-image: url("images/plant.jpeg"); */
+    margin: 0 auto;
+    width: 700px;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: rgba(255,255,255,0.2);
+    color: #FDFFE1
+  }
+
+.quiz {
+  background-color: rgba(255,255,255,0.4);
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 4px;
+  margin: 20px 20px;
+  text-align: center;
+}
+
+.card {
+  background-color: rgba(255,255,255,0.4);
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 4px;
+  margin: 20px 20px;
+  text-align: center;
+}
+
+.img-circle {
+  border-radius: 15%;
+}
+
+.logos {
+  font-size: 25px;
+}
+
+.fa-paw {
+  font-size: 40px;
+}
